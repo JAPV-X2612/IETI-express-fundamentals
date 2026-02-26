@@ -16,6 +16,7 @@
   "author": "Erik Casas",
   "license": "ISC",
   "devDependencies": {
+    "dotenv": "^17.3.1",
     "jest": "29.7.0",
     "nodemon": "^3.1.11",
     "supertest": "6.3.3"
