@@ -1,3 +1,4 @@
+require("dotenv").config();
 const express = require("express");
 const router = require("./routes");
 const validateHttpMethod = require("./middlewares/validate-http-method");
